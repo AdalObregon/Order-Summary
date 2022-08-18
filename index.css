@@ -153,6 +153,12 @@ a:hover {
 }
 
 @media (max-width: 375px) {
+    html{
+        background-image: url('./images/pattern-background-mobile.svg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: hsl(225, 100%, 94%);
+    }
   .card {
     margin: 2rem auto;
     width: 275px;
