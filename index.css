@@ -164,6 +164,8 @@ a:hover {
     width: 275px;
   }
   .hero img {
+    margin: 0;
+    padding: 0;
     width: 275px;
     height: 250px;
   }
